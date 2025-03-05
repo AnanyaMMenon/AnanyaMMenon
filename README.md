@@ -20,7 +20,6 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 ## 🤝 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/ananya-m-menon/)
-- [Portfolio](https://ananyamenon.dev) *(if you have one, otherwise remove this line)*
 
 ## 💻 GitHub Stats:
 ![Ananya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ananyamenon&show_icons=true&hide_title=true&count_private=true&hide=prs)
