@@ -1,6 +1,6 @@
 # Hi, I'm Ananya Menon 👋
 
-<img src="https://github.com/ananyammenon/Portfolio/blob/main/assets/it-crowd-fire.jpeg?raw=true" width="400"/>
+<img src="[https://github.com/ananyammenon/Portfolio/blob/main/assets/it-crowd-fire.jpeg?raw=tru](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmjeromin&psig=AOvVaw3_1sohtpUCYQu6A-GTfTtq&ust=1749505672173000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKD61tLm4o0DFQAAAAAdAAAAABAE)" width="400"/>
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
