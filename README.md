@@ -1,5 +1,6 @@
 # Hi, I'm Ananya Menon 👋
 
+![The IT Crowd - Fire](https://media.tenor.com/PRN-EHOCuHwAAAAM/the-it-crowd-moss-the-it-crowd.gif)
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
