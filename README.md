@@ -1,6 +1,5 @@
 # Hi, I'm Ananya Menon 👋
 
-<img src="[https://github.com/ananyammenon/Portfolio/blob/main/assets/it-crowd-fire.jpeg?raw=tru](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmjeromin&psig=AOvVaw3_1sohtpUCYQu6A-GTfTtq&ust=1749505672173000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKD61tLm4o0DFQAAAAAdAAAAABAE)" width="400"/>
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
@@ -21,22 +20,8 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 ---
 
-## 📚 My Current Projects:
-- [ASP.NET CRM UI Enhancements](https://github.com/ananyammenon/project1) – Building scalable features at CDK Global
-- [Azure Data Migration Tool](https://github.com/ananyammenon/project2) – A data pipeline using Azure Data Factory and Functions
-
----
-
 ## 🤝 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/ananya-m-menon/)
 - [Portfolio](https://ananyammenon.github.io/Portfolio/)
 
----
 
-## 💻 GitHub Stats:
-![Ananya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ananyammenon&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
----
-
-## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ananyammenon)
