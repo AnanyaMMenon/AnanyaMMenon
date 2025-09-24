@@ -2,7 +2,7 @@
 
 <img src="https://media.tenor.com/PRN-EHOCuHwAAAAM/the-it-crowd-moss-the-it-crowd.gif" alt="The IT Crowd - Fire" width="500"/>
 
-Welcome to my GitHub profile! Here's a little bit about me:
+Welcome to my GitHub profile!
 
 
 ## 🛠️ Languages & Tools
