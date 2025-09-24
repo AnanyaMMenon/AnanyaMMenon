@@ -4,13 +4,6 @@
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
-## 🚀 About Me:
-- 🌱 I’m currently learning and working with **React**, **ASP.NET MVC**, and **Azure**.
-- 👨‍💻 I’m passionate about **software engineering**, **cloud computing**, and **data-driven applications**.
-- 💬 Ask me about **C#**, **.NET**, **Cloud Engineering**, **Big Data**, or **Web Development**.
-- 📫 Reach me at: [ananyammenon@gmail.com](mailto:ananyammenon@gmail.com)
-
----
 
 ## 🛠️ Languages & Tools
 
